@@ -12,3 +12,5 @@ Rules:
   - one extra section
 
 final time: ~ 3 hours (yikes)
+
+final site can be viewed at: https://br-zhou.github.io/Personal-Site-Speedrun/
