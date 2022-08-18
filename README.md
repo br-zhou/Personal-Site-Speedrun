@@ -11,6 +11,6 @@ Rules:
   - footer
   - one extra section
 
-final time: ~ 3 hours (yikes)
+final time: ~ 1 hour
 
 final site can be viewed at: https://br-zhou.github.io/Personal-Site-Speedrun/
